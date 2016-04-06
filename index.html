@@ -1,0 +1,26 @@
+
+<html>
+<head>
+	<title>My Meanstack app</title>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.4.0/angular.js"></script>
+	<script src="app.js"></script>
+</head>
+<body ng-app="flapperNews" ng-controller="MainCtrl">
+	<div ng-repeat = "post in posts | orderBy: '-upvotes' ">
+		<span ng-click="incrementUpvotes(post)">^</span>
+		{{post.title}} - upvotes: {{post.upvotes}}
+	</div>
+	<button ng-click="addPost()">Post</button>
+	<form ng-submit="addPost()">
+		<input type="text" ng-model="title"></input>
+		<button type="submit">Post</button>
+	</form>
+	<form ng-submit="addPost()">
+		<input type="text" placeholder="Title" ng-model="title"></input>
+		<br>
+		<input type="text" placeholder="Link" ng-model="link"></input>
+		<br>
+		<button type="submit">Post</button>
+	</form>
+</body>
+</html>

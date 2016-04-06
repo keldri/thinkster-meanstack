@@ -1,6 +1,13 @@
 //defined app
 var app = angular.module('flapperNews', []);
-
+//creating factoy
+app.factory('posts', [function(){
+	//service body
+	var o = {
+		posts: []
+	};
+	return o;
+}])
 //defined main ctrl
 app.controller('MainCtrl', [
 //defined scope

@@ -2,7 +2,7 @@
 var app = angular.module('flapperNews', []);
 //creating factoy
 app.factory('posts', [function(){
-	//service body
+	//service body - creating a new object that has an array property called posts
 	var o = {
 		posts: []
 	};
@@ -10,17 +10,13 @@ app.factory('posts', [function(){
 }])
 //defined main ctrl
 app.controller('MainCtrl', [
-//defined scope
+//defined scope and injected service into ctrl
 	'$scope',
-	function($scope){
+	'posts',
+	function($scope, posts){
 	//defined test
 		$scope.test ='hello world';
-		$scope.posts = [
-			{title:'post 1', upvotes:5},
-			{title:'post 2', upvotes:3},
-			{title:'post 3', upvotes:3},
-			{title:'post 4', upvotes:6},
-			{title:'post 5', upvotes:4}
+		$scope.posts = posts.posts;
 		];
 		$scope.addPost = function(){
 			if(!$scope.title || $scope.title === ' ') {return; }

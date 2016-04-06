@@ -32,7 +32,6 @@ app.controller('MainCtrl', [
 	//defined test
 		$scope.test ='hello world';
 		$scope.posts = posts.posts;
-		];
 		$scope.addPost = function(){
 			if(!$scope.title || $scope.title === ' ') {return; }
 			$scope.posts.push(

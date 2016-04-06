@@ -1,6 +1,21 @@
 //defined app and added in external module ui-router
 var app = angular.module('flapperNews', ['ui.router']);
-//creating factoy
+//configuring home state
+app.config([
+	'$stateProvider',
+	'$urlRouterProvider',
+	function($stateProvider, $urlRouterProvider) {
+		
+		$stateProvider
+			.state('home', {
+				url: '/home',
+				templateUrl: '/home.html',
+				controller: 'MainCtrl'
+			});
+		$urlRouterProvider.otherwise('home');	
+	}]);
+
+//creating factory
 app.factory('posts', [function(){
 	//service body - creating a new object that has an array property called posts
 	var o = {

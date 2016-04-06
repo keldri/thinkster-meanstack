@@ -1,5 +1,5 @@
-//defined app
-var app = angular.module('flapperNews', []);
+//defined app and added in external module ui-router
+var app = angular.module('flapperNews', ['ui.router']);
 //creating factoy
 app.factory('posts', [function(){
 	//service body - creating a new object that has an array property called posts

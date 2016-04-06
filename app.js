@@ -1,3 +1,5 @@
+//where i left off https://thinkster.io/mean-stack-tutorial#the-posts-page
+
 //defined app and added in external module ui-router
 var app = angular.module('flapperNews', ['ui.router']);
 //configuring home state
@@ -23,6 +25,8 @@ app.factory('posts', [function(){
 	};
 	return o;
 }])
+
+
 //defined main ctrl
 app.controller('MainCtrl', [
 //defined scope and injected service into ctrl

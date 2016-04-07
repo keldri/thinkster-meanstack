@@ -34,7 +34,7 @@ app.controller('MainCtrl', [
 	'posts',
 	function($scope, posts){
 	//defined test
-		$scope.test ='hello world';
+		$scope.test='hello world';
 		$scope.posts = posts.posts;
 		$scope.addPost = function(){
 			if(!$scope.title || $scope.title === ' ') {return; }

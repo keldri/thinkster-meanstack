@@ -42,7 +42,10 @@ app.controller('MainCtrl', [
 				title: $scope.title, 
 				link:$scope.link,
 				upvotes:0,
-				comments:[]
+				comments:[
+					{author:'Joe', body:'Cool post!', upvotes:0}
+					{author:'Mary', body:'Stellar post!', upvotes:0}
+				]
 			});
 			$scope.title = '';
 			$scope.link = '';

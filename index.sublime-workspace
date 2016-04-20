@@ -1,0 +1,990 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"clo",
+				"closestAvailability"
+			],
+			[
+				"cl",
+				"closestAvailability"
+			],
+			[
+				"sort",
+				"sortAvailabilty"
+			],
+			[
+				"tutor",
+				"tutorId"
+			],
+			[
+				"sor",
+				"sortOption"
+			],
+			[
+				"pr",
+				"props"
+			],
+			[
+				"match",
+				"sortMatch"
+			],
+			[
+				"show",
+				"showSortState"
+			],
+			[
+				"get",
+				"getSortOption"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"br",
+				"brand-green"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"bo",
+				"border-bottom"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"bran",
+				"brand-green"
+			],
+			[
+				"medi",
+				"medium-screens"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"con",
+				"controller	AngularJS"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"template",
+				"templateStore"
+			],
+			[
+				"Templates",
+				"TemplatesCTRL"
+			],
+			[
+				"ngC",
+				"ng-controller	AngularJS"
+			],
+			[
+				"$routeP",
+				"$routeProvider	AngularJS"
+			],
+			[
+				"$rou",
+				"$routeProvider	AngularJS"
+			],
+			[
+				"med",
+				"medium-screens"
+			],
+			[
+				"tutor-s",
+				"tutor-subjects-list"
+			],
+			[
+				"re",
+				"respond-to"
+			],
+			[
+				"signup-",
+				"signup-or-separator"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"brand",
+				"brand-pink"
+			],
+			[
+				"bor",
+				"border-right"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"typeahead",
+				"typeaheadElement"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"serch",
+				"searchmobilemainquery"
+			],
+			[
+				"type",
+				"typeahead"
+			],
+			[
+				"mobile",
+				"mobiletypeahead"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"form",
+				"form-group"
+			],
+			[
+				"border-",
+				"border-radius"
+			],
+			[
+				"logn",
+				"login-signup"
+			],
+			[
+				"session",
+				"session-time-row"
+			],
+			[
+				"tuto",
+				"tutor-attribute"
+			],
+			[
+				"modal",
+				"modal-body"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"pane",
+				"panel-heading"
+			],
+			[
+				"panel",
+				"panel-info"
+			],
+			[
+				"tutor-",
+				"tutor-topics"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"tuti",
+				"tutor-attribute"
+			],
+			[
+				"c",
+				"center-block-table"
+			],
+			[
+				"tut",
+				"tutor-attributes"
+			],
+			[
+				"mod",
+				"modal-footer"
+			],
+			[
+				"col-xs-offset",
+				"col-xs-offset-4"
+			],
+			[
+				"na",
+				"navbar-collapse"
+			],
+			[
+				"menu",
+				"menuTypeahead"
+			],
+			[
+				"navbar",
+				"navbar-collapse"
+			],
+			[
+				"prepen",
+				"prependTo"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"nav",
+				"navbar-toggle"
+			],
+			[
+				"navba",
+				"navbar-default"
+			],
+			[
+				"brand-da",
+				"brand-darkgrey"
+			],
+			[
+				"fo",
+				"footer	<footer>"
+			],
+			[
+				"vmTem",
+				"vmTempMessage"
+			],
+			[
+				"error",
+				"errorMessage"
+			],
+			[
+				"post",
+				"postParent"
+			],
+			[
+				"mypost",
+				"mypostId"
+			],
+			[
+				"nwe",
+				"new_post"
+			],
+			[
+				"myP",
+				"mypostId"
+			],
+			[
+				"my",
+				"myTitle"
+			],
+			[
+				"selec",
+				"selected_gallery_2"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"grid",
+				"grid-wrapper"
+			],
+			[
+				"mouse",
+				"mouseEnter"
+			],
+			[
+				"grid-",
+				"grid-unit"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"pro",
+				"prompt"
+			],
+			[
+				"b",
+				"border"
+			],
+			[
+				"m",
+				"myGrid"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"on",
+				"onclick	Attr"
+			],
+			[
+				"empty",
+				"empty-post"
+			],
+			[
+				"galle",
+				"galley_title"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"info",
+				"info-button"
+			],
+			[
+				"com",
+				"completedTasksHolder"
+			],
+			[
+				"append",
+				"appendChild"
+			],
+			[
+				"inc",
+				"incompleteTasksHolder"
+			],
+			[
+				"ed",
+				"editButton"
+			],
+			[
+				"delete",
+				"deleteButton"
+			],
+			[
+				"cre",
+				"createElement"
+			],
+			[
+				"che",
+				"checkbox"
+			],
+			[
+				"crea",
+				"create"
+			],
+			[
+				"list",
+				"listItem"
+			],
+			[
+				"create",
+				"createNewTaskElement"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"bin",
+				"bindTaskEvents"
+			],
+			[
+				"taskIn",
+				"taskInomplete"
+			],
+			[
+				"incomplete",
+				"incompleteTaskHolder"
+			],
+			[
+				"new",
+				"new-task"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"a",
+				"artist-dropdown"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"res",
+				"resources"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"import",
+				"important"
+			],
+			[
+				"touch",
+				"_touch"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"toggle",
+				"toggleClass"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"to",
+				"toggleClass"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"bakc",
+				"background-color"
+			],
+			[
+				"enque",
+				"topnewschild_enqueue_scripts"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "p",
+		"selected_items":
+		[
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Github: Repository"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"g",
+				"Git: Add All"
+			],
+			[
+				"git:br",
+				"Github: History"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: CDATA"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Snippet: Blank HTML Page"
+			],
+			[
+				"sni",
+				"Snippet: html"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 493.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"git add .",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/kateeldridge/ReactSortTest/Reactsort-2.js",
+		"/Users/kateeldridge/ReactSortTest/Reactsort-1",
+		"/Users/kateeldridge/ReactSortTest/Reactsort",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/public/components/searchtutors/Tutor.jsx",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/public/components/searchtutors/SearchTutorApp.jsx",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/public/components/searchtutors/TutorModalInstance.jsx",
+		"/Users/kateeldridge/Desktop/thinkster-meanstack/index.html",
+		"/Users/kateeldridge/Desktop/thinkster-meanstack/app.js",
+		"/Users/kateeldridge/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/views/index.hbs",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/public/sass/dashboard/sessions.scss",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/public/components/dashboard/user/home/home.html",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/public/components/dashboard/user/sessions/sessions.html",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/public/sass/dashboard/student-dashboard.scss",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/public/components/dashboard/user/information/information.html",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/public/components/searchtutors/no-tutors-form.html",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/public/sass/booking-flow.scss",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/public/components/dashboard/user/password/password.html",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/public/components/dashboard/user/billing/billing.controller.js",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/public/components/dashboard/user/billing/billing.html",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/public/components/dashboard/user/addresses/addresses.html",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/public/components/dashboard/user/profile/profile.html",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/public/components/dashboard/user/addresses/addresses.controller.js",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/views/partials/subnavbar.hbs",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/views/dashboard/user/index.hbs",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/public/components/dashboard/user/payments/payments.html",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/public/sass/dashboard/dashboard.scss",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/views/tutor/profile.hbs",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/public/sass/profile.scss",
+		"/Users/kateeldridge/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/public/components/dashboard/user/profile/profile.controller.js",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/public/components/dashboard/user/user.state.js",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/routes/dashboard/user.js",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/public/components/dashboard/user/profile/information/information.controller.js",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/public/components/dashboard/user/profile/information/information.html",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/public/components/dashboard/user/profile/password/password.controller.js",
+		"/Users/kateeldridge/Desktop/password-view.html",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/views/partials/minimal-navbar.hbs",
+		"/Users/kateeldridge/Desktop/angular-projects/angular-seed/app/view2/view2.js",
+		"/Users/kateeldridge/Desktop/angular-projects/angular-seed/app/view1/view1.js",
+		"/Users/kateeldridge/Desktop/angular-projects/angular-seed/app/app.js",
+		"/Users/kateeldridge/Desktop/angular-projects/angular-seed/app/view2/view2.html",
+		"/Users/kateeldridge/Desktop/angular-projects/angular-seed/app/index.html",
+		"/Users/kateeldridge/Desktop/angular-projects/angular-seed/app/templates/templates.html",
+		"/Users/kateeldridge/Desktop/angular-projects/angular-seed/app/templates/templates.js",
+		"/Users/kateeldridge/Desktop/angular-projects/angular-seed/app/view1/view1.html",
+		"/Users/kateeldridge/Desktop/angular-projects/angular-seed/app/view1/view1_test.js",
+		"/Users/kateeldridge/Desktop/angular-projects/angular-seed/app/view2/view2_test.js",
+		"/Users/kateeldridge/Desktop/angular-projects/angular-seed/app/bower_components/angular/angular-csp.css",
+		"/Users/kateeldridge/Desktop/angular-project-feb/main.html",
+		"/Users/kateeldridge/Desktop/angular-project-feb/about.html",
+		"/Users/kateeldridge/Desktop/angular-project-feb/services.html",
+		"/Users/kateeldridge/Desktop/angular-project-feb/index.html",
+		"/Users/kateeldridge/Desktop/angular-project-feb/public/components/sass/app.scss",
+		"/Users/kateeldridge/Desktop/angular-project-feb/contact.html",
+		"/Users/kateeldridge/Desktop/angular-project-feb/public/components/sass/layout.scss",
+		"/Users/kateeldridge/Desktop/angular-project-feb/public/components/js/script.js",
+		"/Users/kateeldridge/Desktop/angular-project-feb/gulpfile.js",
+		"/Users/kateeldridge/Desktop/angular-project-feb/bower_components/bootstrap-sass/bower.json",
+		"/Users/kateeldridge/Desktop/angular-project-feb/public/components/css/app.css",
+		"/Users/kateeldridge/Desktop/angular-project-feb/public/components/css/styles.css",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/public/sass/tutor-card.scss",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/public/components/searchtutors/SearchForm.jsx",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/public/sass/search-form.scss",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/public/js/site.js",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/public/sass/tutor-items.scss",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/public/sass/homepage.scss",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/public/sass/navigation.scss",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/views/search/index.hbs",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/routes/search.js",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/public/sass/typeahead.scss",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/routes/admin/tutors.js",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/models/tutor/index.js",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/public/sass/utils.scss",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/public/components/login/modal/login-modal-content.html",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/public/components/signup/account/signup.account.html",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/public/components/signup/modal/signup-modal-content.html",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/public/components/login/login.view.html",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/public/sass/modals/login-signup.scss",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/views/layout.hbs",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/public/sass/typography.scss",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/public/sass/app.scss",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/public/sass/dropdown-select.scss",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/public/sass/buttons.scss",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/public/sass/booking-flow/payment.scss",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/public/components/shared/forms/payment.html",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/public/components/searchtutors/typeahead.js",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/views/partials/navbar.hbs",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/public/js/typeahead.js",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/public/css/navbar.css",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/public/sass/typeahead.sass.less",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/views/partials/bookingpanel.hbs",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/public/components/shared/booking.html",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/public/sass/mixins.scss",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/views/signup/index.hbs",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/public/sass/booking-flow/booking-flow.scss",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/public/components/signup/account/signup.role.html",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/views/login/index.hbs",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/public/sass/layout.scss",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/views/booking/index.hbs",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/public/sass/footer.scss",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/views/testimonials.hbs",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/views/terms.hbs",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/views/privacy.hbs",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/views/press.hbs",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/views/our-guarantee.hbs",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/views/other-careers.hbs",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/views/notfound.hbs",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/views/error.hbs",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/views/about.hbs",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/views/apply-to-tutor.hbs",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/views/blog.hbs",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/views/contact.hbs",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/views/partials/footer.hbs",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/public/bower_components/angular-bootstrap/ui-bootstrap-tpls.js",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/public/components/angular-datepicker/datepicker-template.js",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/public/components/search/tutor-profile-modal-window.html",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/public/components/search/search.module.js",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/public/components/search/tutor-profile-modal-content.html",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/public/components/search/tutor-profile.controller.js",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/public/components/searchtutors/ModalInstance.jsx",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/public/sass/modals/zipcode-modal.scss",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/public/sass/modals/modal.scss",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/public/dist/css/app.css",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/public/sass/topic-search.scss",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/public/css/homepage.css",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/Gulpfile.js",
+		"/Users/kateeldridge/Desktop/Alec-Quedify/website/lib/public/sass/inputs.scss"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"<current file>",
+			"",
+			"<current file>",
+			"",
+			"<current file>",
+			"/Applications/MAMP/htdocs/stocks/wp-content/plugins,<current file>",
+			"/Applications/MAMP/htdocs/stocks/wp-content/plugins",
+			"/Applications/MAMP/htdocs/stocks",
+			"<open folders>,",
+			"<open folders>,/Applications/MAMP/htdocs/wordpress/wp-content/themes/maven/sass",
+			"<open folders>",
+			"<open folder,/Applications/MAMP/htdocs/wordpress/wp-content/themes/maven/sass",
+			"<open folders>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"();",
+			"vimeoWrapperElement",
+			"videoTag ",
+			"nav",
+			"text",
+			"isEd",
+			"text",
+			"text-s",
+			"payment me",
+			"defa",
+			"length",
+			"defau",
+			"form",
+			"addres",
+			"address-form",
+			"address",
+			"cleft",
+			"clear",
+			"view",
+			"ui.router",
+			"$stateProvider",
+			"page-head",
+			"templateStore",
+			"myApp",
+			"Raleway",
+			"APP.SCSS",
+			"selectLevel",
+			"console",
+			"<<<<<",
+			"vm.availability",
+			"vm.availabl",
+			"availabl",
+			"dropdown-menu",
+			"<<<<<",
+			".disabled",
+			"sortby",
+			".sortby",
+			"sortby",
+			"ts_dropdownopen",
+			"\">\n",
+			"search/topic-search",
+			"template/typeahead/typeahead-popup.html",
+			"angular.module(\"template/datepicker/popup.html",
+			"ng-style=\\\"{top: position.top+'px'",
+			"59px",
+			"search",
+			"top",
+			"#fff",
+			"mobiletypeahead",
+			"typeaheadOptions",
+			"var typeaheadOptions = ",
+			"<<<<<",
+			".tutor-item-content",
+			"bottom",
+			"100",
+			"tpl-user",
+			"dropdown-menu",
+			"typeahead",
+			"<<<<",
+			"zipcode",
+			"Sign up as a...",
+			"pictureUrl",
+			"pictureSmallUrl",
+			"<<<<<<<",
+			"<<<<<",
+			"datepicker",
+			"typeahead",
+			"data",
+			"close",
+			"default",
+			".input-group.input-group-alec input {\n    width: 80%;",
+			"width:80%",
+			"80%",
+			"sourcemaps",
+			"  height: 50px;\n  margin-bottom: 5px;\n  font-size: 1.1em;",
+			"font-size: 24px !important;",
+			"source",
+			"compile-sass",
+			"compilt-sass",
+			"sourcemaps",
+			"\n.booking-tutor.zipcode .session-time .session-time-row .form-group.nested-group input",
+			".form-group.nested-group button",
+			".nested-group",
+			"<<<<",
+			"tabindex",
+			"modal-sm",
+			"h3",
+			"1.2",
+			"first-of-type ",
+			"className",
+			"class=\"booking-tutor ng-scope\"",
+			"form-group",
+			"}\n",
+			"cancel",
+			"edit card",
+			"add",
+			"-moz-appearance: none;",
+			"select.form-control ",
+			"btn-primary",
+			".page-header",
+			"first-of-type ",
+			"vm.locationForm",
+			".navbar",
+			"navbar",
+			"div",
+			"status-button",
+			"panel panel-default col-md-6 col-md-offset-3 mt-m",
+			"http://placehold.it/64x64",
+			"row m0",
+			".typeahead",
+			"selected",
+			"EST",
+			"neo4j",
+			"h3",
+			".close",
+			"center-block",
+			"api",
+			"'",
+			"redirect",
+			"65279",
+			"xs",
+			"bootstrap",
+			"width",
+			"tertiary",
+			"add",
+			".message-error",
+			"test",
+			"?>\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"class",
+			" class",
+			" ",
+			"",
+			"xxs",
+			".col-xs-12 {\n	  width: 100%;\n	}\n	.col-xs-11 {\n	  width: 91.66666667%;\n	}\n	.col-xs-10 {\n	  width: 83.33333333%;\n	}\n	.col-xs-9 {\n	  width: 75%;\n	}\n	.col-xs-8 {\n	  width: 66.66666667%;\n	}\n	.col-xs-7 {\n	  width: 58.33333333%;\n	}\n	.col-xs-6 {\n	  width: 50%;\n	}\n	.col-xs-5 {\n	  width: 41.66666667%;\n	}\n	.col-xs-4 {\n	  width: 33.33333333%;\n	}\n	.col-xs-3 {\n	  width: 25%;\n	}\n	.col-xs-2 {\n	  width: 16.66666667%;\n	}\n	.col-xs-1 {\n	  width: 8.33333333%;\n	}\n	.col-xs-pull-12 {\n	  right: 100%;\n	}\n	.col-xs-pull-11 {\n	  right: 91.66666667%;\n	}\n	.col-xs-pull-10 {\n	  right: 83.33333333%;\n	}\n	.col-xs-pull-9 {\n	  right: 75%;\n	}\n	.col-xs-pull-8 {\n	  right: 66.66666667%;\n	}\n	.col-xs-pull-7 {\n	  right: 58.33333333%;\n	}\n	.col-xs-pull-6 {\n	  right: 50%;\n	}\n	.col-xs-pull-5 {\n	  right: 41.66666667%;\n	}\n	.col-xs-pull-4 {\n	  right: 33.33333333%;\n	}\n	.col-xs-pull-3 {\n	  right: 25%;\n	}\n	.col-xs-pull-2 {\n	  right: 16.66666667%;\n	}\n	.col-xs-pull-1 {\n	  right: 8.33333333%;\n	}\n	.col-xs-pull-0 {\n	  right: auto;\n	}\n	.col-xs-push-12 {\n	  left: 100%;\n	}\n	.col-xs-push-11 {\n	  left: 91.66666667%;\n	}\n	.col-xs-push-10 {\n	  left: 83.33333333%;\n	}\n	.col-xs-push-9 {\n	  left: 75%;\n	}\n	.col-xs-push-8 {\n	  left: 66.66666667%;\n	}\n	.col-xs-push-7 {\n	  left: 58.33333333%;\n	}\n	.col-xs-push-6 {\n	  left: 50%;\n	}\n	.col-xs-push-5 {\n	  left: 41.66666667%;\n	}\n	.col-xs-push-4 {\n	  left: 33.33333333%;\n	}\n	.col-xs-push-3 {\n	  left: 25%;\n	}\n	.col-xs-push-2 {\n	  left: 16.66666667%;\n	}\n	.col-xs-push-1 {\n	  left: 8.33333333%;\n	}\n	.col-xs-push-0 {\n	  left: auto;\n	}\n	.col-xs-offset-12 {\n	  margin-left: 100%;\n	}\n	.col-xs-offset-11 {\n	  margin-left: 91.66666667%;\n	}\n	.col-xs-offset-10 {\n	  margin-left: 83.33333333%;\n	}\n	.col-xs-offset-9 {\n	  margin-left: 75%;\n	}\n	.col-xs-offset-8 {\n	  margin-left: 66.66666667%;\n	}\n	.col-xs-offset-7 {\n	  margin-left: 58.33333333%;\n	}\n	.col-xs-offset-6 {\n	  margin-left: 50%;\n	}\n	.col-xs-offset-5 {\n	  margin-left: 41.66666667%;\n	}\n	.col-xs-offset-4 {\n	  margin-left: 33.33333333%;\n	}\n	.col-xs-offset-3 {\n	  margin-left: 25%;\n	}\n	.col-xs-offset-2 {\n	  margin-left: 16.66666667%;\n	}\n	.col-xs-offset-1 {\n	  margin-left: 8.33333333%;\n	}\n	.col-xs-offset-0 {\n	  margin-left: 0;\n	}",
+			"secondary",
+			"Selected Gallery",
+			"selected_gallery",
+			"custum_selected_gallery",
+			"Selected Gallery",
+			"selected_gallery",
+			"selected_galleries",
+			"Post Gallery",
+			".actualImageBox",
+			".sortable",
+			"#f60"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 140.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 514.0
+	},
+	"output.sftp":
+	{
+		"height": 156.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 24.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 263.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

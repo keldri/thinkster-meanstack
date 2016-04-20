@@ -35,7 +35,7 @@ app.controller('MainCtrl', [
 	function($scope, posts){
 	//defined test
 		$scope.test='hello world';
-		$scope.posts = posts.posts;
+		$scope.posts = posts.posts[$stateParams.id];// [$stateParams.id] grabs appropriate post from posts service
 		$scope.addPost = function(){
 			if(!$scope.title || $scope.title === ' ') {return; }
 			$scope.posts.push({

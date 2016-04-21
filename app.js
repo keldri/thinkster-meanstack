@@ -13,7 +13,12 @@ app.config([
 				url: '/home',
 				templateUrl: '/home.html',
 				controller: 'MainCtrl'
-			});
+			})
+			.state('posts', {
+			  url: '/posts/{id}',
+			  templateUrl: '/posts.html',
+			  controller: 'PostsCtrl'
+			})
 		$urlRouterProvider.otherwise('home');	
 	}]);
 
@@ -21,30 +26,37 @@ app.config([
 app.factory('posts', [function(){
 	//service body - creating a new object that has an array property called posts
 	var o = {
-		posts: []
+		posts: [
+		  {title: 'post 1', upvotes: 5},
+		  {title: 'post 2', upvotes: 2},
+		  {title: 'post 3', upvotes: 15},
+		  {title: 'post 4', upvotes: 9},
+		  {title: 'post 5', upvotes: 4}
+		]
 	};
 	return o;
-}])
+}]);
 
 
 //defined main ctrl
 app.controller('MainCtrl', [
 //defined scope and injected service into ctrl
 	'$scope',
+	'$stateParams',
 	'posts',
-	function($scope, posts){
-	//defined test
+	function($scope, $stateParams, posts){
+	//defined test 
 		$scope.test='hello world';
-		$scope.posts = posts.posts[$stateParams.id];// [$stateParams.id] grabs appropriate post from posts service
+		$scope.posts = posts.posts;
 		$scope.addPost = function(){
 			if(!$scope.title || $scope.title === ' ') {return; }
 			$scope.posts.push({
 				title: $scope.title, 
 				link:$scope.link,
 				upvotes:0,
-				comments:[
-					{author:'Joe', body:'Cool post!', upvotes:0}
-					{author:'Mary', body:'Stellar post!', upvotes:0}
+				comments: [
+					{author: 'Joe', body: 'Cool post!', upvotes: 0},
+				    {author: 'Bob', body: 'Great idea but everything is wrong!', upvotes: 0}
 				]
 			});
 			$scope.title = '';
@@ -56,8 +68,19 @@ app.controller('MainCtrl', [
 	}]);
 
 //define posts ctrl
-app.controller('PostsCtrl',[
-	'$scope', '$stateParams', 'posts', 
-	function($scope, $stateParams, posts){
-
+app.controller('PostsCtrl', [
+	'$scope',
+	'$stateParams', 
+	'posts',
+	function($scope, $stateParams. posts){
+		$scope.post = posts.posts[$stateParams.id];
+		$scope.addComment = function(){
+			if ($scope.body === ''){return; }
+			$scope.post.comments.push({
+				body:$scope.body,
+				author:'user',
+				upvotes: 0
+			});
+			$scope.body = '';
+		};
 	}]);
